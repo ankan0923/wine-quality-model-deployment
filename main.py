@@ -10,8 +10,8 @@ import sys
 
 # All paths are relative to this file, so it works from any terminal folder
 BASE = Path(__file__).resolve().parent
-MODEL_PATH = BASE / "models" / "wine_model_v1.joblib"
-DATA_PATH = BASE / "data" / "1. Wine Quality dataset - Sheet1.csv"
+MODEL_PATH = BASE / "wine_model_v1.joblib"
+DATA_PATH = BASE / "1. Wine Quality dataset - Sheet1.csv"
 TRAIN_SCRIPT = BASE / "train_and_package.py"
 
 st.set_page_config(page_title="Wine Quality Predictor", page_icon="🍷")
