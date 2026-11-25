@@ -2,8 +2,6 @@
 
 A scikit-learn pipeline (StandardScaler + RandomForestClassifier) trained on the wine quality data, packaged with joblib, validated, and ready to deploy.
 
-![Architecture](docs/architecture.svg)
-
 ## Project layout
 
 ```
