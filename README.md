@@ -2,6 +2,9 @@
 
 A scikit-learn pipeline (StandardScaler + RandomForestClassifier) trained on the wine quality data, packaged with joblib, validated, and ready to deploy.
 
+**[Explore the live app](https://mainpy-7qbvbmusq2e3xdozjrpqg6.streamlit.app/)**
+
+
 ## Project layout
 
 ```
