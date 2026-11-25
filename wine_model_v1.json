@@ -1,0 +1,23 @@
+{
+  "model_file": "wine_model_v1.joblib",
+  "sha256": "b9aef2190c189045d5f5bd178d980913b0ce3d2c819d1b61216a556bea721c1a",
+  "trained_at_utc": "2026-11-25T05:25:21+00:00",
+  "sklearn_version": "1.9.1",
+  "features": [
+    "Fixed Acidity",
+    "Volatile Acidity",
+    "Citric Acid",
+    "Residual Sugar",
+    "Chlorides",
+    "Free Sulfur Dioxide",
+    "Total Sulfur Dioxide",
+    "Density",
+    "pH",
+    "Sulphates",
+    "Alcohol"
+  ],
+  "target": "Quality",
+  "n_train": 20,
+  "n_test": 7,
+  "holdout_accuracy": 1.0
+}
